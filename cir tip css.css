@@ -18,6 +18,7 @@ body a{
 .navbg{
   height: 80px;
   background-color: #484848;
+
 }
 
 .navbox{
@@ -57,6 +58,7 @@ body a{
 
 nav{
   width: 100%;
+  min-width: 50%;
 }
 .background-food {
     margin: 0;
@@ -126,11 +128,16 @@ nav{
 }
 
 .food-block{
+  
   display: block;
   margin-right: auto;
   margin-left: auto;
-  max-width: 1412px; 
+  width: 1420px;
+
 }
+
+
+
 
 .food-content{
   height: 300px;
@@ -172,9 +179,7 @@ nav{
   
 }
 
-.clear-fix{
-  clear: both;
-}
+
 
 .food-main {
 
