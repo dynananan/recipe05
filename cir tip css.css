@@ -58,7 +58,7 @@ body a{
 
 nav{
   width: 100%;
-  min-width: 50%;
+  
 }
 .background-food {
     margin: 0;
@@ -188,7 +188,7 @@ nav{
   margin-left: auto;
   margin-top: 80px;
   text-align: center;
-  width: 1340px;
+  width: 80%px;
 
 }
 
